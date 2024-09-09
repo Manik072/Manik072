@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruv Vasisht</h1>
+<h1 align="center">Hi 👋, I'm Manik Gujral</h1>
 <h3 align="center">A Tech Enthusiast from India</h3>
 
 <div id="header" align="center" height="600px" width="500px">
@@ -17,6 +17,6 @@
 ## 📈 My GitHub Stats
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvvasisht&show_icons=true&theme=radical" alt=dhruvvasisht" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvvasisht&layout=compact&theme=radical" alt="dhruvvasisht" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvvasisht&theme=radical" alt="dhruvvasisht" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Manik072&show_icons=true&theme=radical" alt=dhruvvasisht" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manik072&layout=compact&theme=radical" alt="dhruvvasisht" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manik072&theme=radical" alt="dhruvvasisht" /></p>
